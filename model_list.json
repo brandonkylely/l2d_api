@@ -1,8 +1,12 @@
 {
     "models": [
-      "live2d-widget-model-wanko"
+      "hijiki",
+      "wanko",
+      "tororo"
     ],
     "messages": [
-        "woof woof!"
+        "meoow",
+        "woof woof!",
+        "meoow"
     ]
 }
