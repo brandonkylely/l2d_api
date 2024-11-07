@@ -1,8 +1,8 @@
 {
     "models": [
-      "hijiki",
-      "wanko",
-      "tororo"
+      "animals/hijiki",
+      "animals/wanko",
+      "animals/tororo"
     ],
     "messages": [
         "meoow",
