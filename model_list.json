@@ -1,7 +1,7 @@
 {
     "models": [
-      "animals/hijiki",
       "animals/wanko",
+      "animals/hijiki",
       "animals/tororo"
     ],
     "messages": [
