@@ -1,12 +1,4 @@
 {
-    "models": [
-      "animals/wanko",
-      "animals/hijiki",
-      "animals/tororo"
-    ],
-    "messages": [
-        "meoow",
-        "woof woof!",
-        "meoow"
-    ]
+  "models": ["animals/wanko", "animals/hijiki", "animals/tororo"],
+  "messages": ["૮⍝• ᴥ •⍝ა", "  ≽^•⩊•^≼  ", "/ᐠ. ｡.ᐟ\\ᵐᵉᵒʷˎˊ˗"]
 }
